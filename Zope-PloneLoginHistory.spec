@@ -10,6 +10,7 @@ Source0:	http://www.easyleading.org/Downloads/PloneLoginHistory-0.2.0.tar.gz
 # Source0-md5:	52bd599d7cd77d408c13fbf6c35e9da8
 URL:		http://www.easyleading.org/Products/PloneLoginHistory/
 Requires(post,postun):	/usr/sbin/installzopeproduct
+BuildRequires:  python
 %pyrequires_eq	python-modules
 Requires:	Zope
 Requires:	Zope-CMF >= 1:1.4.2
