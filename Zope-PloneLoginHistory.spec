@@ -3,7 +3,7 @@ Summary:	Plone Login History
 Summary(pl):	Historia logowañ dla Plone
 Name:		Zope-%{zope_subname}
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Tools
 Source0:	http://www.easyleading.org/Downloads/PloneLoginHistory-0.2.0.tar.gz
