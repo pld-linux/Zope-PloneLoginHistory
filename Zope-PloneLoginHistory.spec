@@ -1,6 +1,6 @@
 %define		zope_subname	PloneLoginHistory
 Summary:	Plone Login History
-Summary(pl):	Historia logowañ dla Plone
+Summary(pl.UTF-8):   Historia logowaÅ„ dla Plone
 Name:		Zope-%{zope_subname}
 Version:	0.2.0
 Release:	3
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Plone Login History.
 
-%description -l pl
-Historia logowañ dla Plone.
+%description -l pl.UTF-8
+Historia logowaÅ„ dla Plone.
 
 %prep
 %setup -q -n %{zope_subname}
