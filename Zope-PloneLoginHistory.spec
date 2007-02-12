@@ -1,6 +1,6 @@
 %define		zope_subname	PloneLoginHistory
 Summary:	Plone Login History
-Summary(pl.UTF-8):   Historia logowań dla Plone
+Summary(pl.UTF-8):	Historia logowań dla Plone
 Name:		Zope-%{zope_subname}
 Version:	0.2.0
 Release:	3
